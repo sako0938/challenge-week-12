@@ -69,12 +69,7 @@
 [Query snippet]
 [Answer]
 
-## Challenge 6
-
-[Query snippet]
-[Answer]
-
-## Challenge 7 [BONUS]
+## Challenge 6 [BONUS]
 
 [Code]
 [Answer]
